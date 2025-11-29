@@ -3,7 +3,13 @@
 ## 📖 Descrição
 Este projeto implementa uma API REST para gerenciamento de tarefas, utilizando **ExpressJS** e **Mongoose** para manipulação do MongoDB.  
 A API possui endpoints para criar, listar, atualizar e deletar tarefas, além de autenticação via JWT.  
-O projeto também possui documentação interativa usando **Swagger**.
+O projeto também possui documentação interativa usando **Swagger**
+
+Feito por:
+-Felipe de Melo Soares 2324290043
+-Daniel Ferreira Lima 2324290116
+-Arthur Santos Rodrigues 2324290068
+-Arthur Amorim 2324290115
 
 ---
 
